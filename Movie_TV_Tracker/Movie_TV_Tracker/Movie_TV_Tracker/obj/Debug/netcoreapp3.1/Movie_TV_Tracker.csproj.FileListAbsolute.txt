@@ -1,0 +1,13 @@
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.exe
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.csprojAssemblyReference.cache
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.AssemblyInfoInputs.cache
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.AssemblyInfo.cs
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.deps.json
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.runtimeconfig.json
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.runtimeconfig.dev.json
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.dll
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\Movie_TV_Tracker.pdb
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.csproj.CopyComplete
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.dll
+C:\Users\ericm\source\repos\Movie_TV_Tracker\Movie_TV_Tracker\obj\Debug\netcoreapp3.1\Movie_TV_Tracker.pdb
